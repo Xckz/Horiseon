@@ -6,6 +6,8 @@ This is the landing page for a company called **Horiseon**.
 
 Horiseon specializes in [Search Engine Optimization](#optimization) through [Online Reputation Management](#reputation) and [Social Media Marketing](#marketing).
 
+![Screenshot of the Website](.\assets\screenshot_fullsite.png)
+
 ## Optimization
 
 Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for you business.
